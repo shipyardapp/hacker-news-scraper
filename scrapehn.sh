@@ -1,0 +1,1 @@
+go run scrapehn.go -words $WORDS -score $SCORE -output $FILE_NAME
